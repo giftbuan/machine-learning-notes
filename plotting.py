@@ -18,4 +18,4 @@ def animate(i):
     plt.legend()
     plt.tight_layout()
 
-    ani = FuncAnimation(plt.gcf(), animate, interba)
+    ani = FuncAnimation(plt.gcf(), animate, interbal = 1000, cache_frame_data=False)
