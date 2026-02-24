@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
-
+#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
+#df = pd.read_csv('name-of-csv.csv')
 # 1. DATA: Always define these first!
 countries = ['Vietnam (Hanoi)', 'Laos', 'Cambodia', 'Vietnam (HCM)']
 food = [3000, 10000, 7500, 7500]
