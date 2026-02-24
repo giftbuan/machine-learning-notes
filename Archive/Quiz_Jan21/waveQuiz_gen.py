@@ -2,7 +2,7 @@ import csv
 import random
 import time
 
-from data_gen import total_1
+from Archive.data_gen import total_1
 
 # Variables for the data columns
 x_value = 0
